@@ -17,3 +17,10 @@ Here we can deploy what's happeing in the background of our application, the bac
 ## 4) CircleCi:
 
 Here we are creating a pipeline that will contribute into the creation of an automated procedure of building and deploying the application. This can be done using the (CI/CD) startegies
+
+
+
+![Screen Shot 2023-02-13 at 4 48 54 PM](https://user-images.githubusercontent.com/91342432/218481238-93c31b27-8c8f-4616-9e40-6cbfcf90b8da.png)
+
+
+![Screen Shot 2023-02-13 at 5 10 39 PM](https://user-images.githubusercontent.com/91342432/218481248-efe95e6a-c141-4439-9a80-6b720c47fbee.png)
