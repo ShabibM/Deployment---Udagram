@@ -24,3 +24,7 @@ Here we are creating a pipeline that will contribute into the creation of an aut
 
 
 ![Screen Shot 2023-02-13 at 5 10 39 PM](https://user-images.githubusercontent.com/91342432/218481248-efe95e6a-c141-4439-9a80-6b720c47fbee.png)
+
+
+![Screen Shot 2023-02-13 at 5 14 11 PM](https://user-images.githubusercontent.com/91342432/218481518-0a13ac49-6bec-4a63-a745-629b289e688e.png)
+
