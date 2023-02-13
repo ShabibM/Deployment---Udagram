@@ -31,9 +31,9 @@ jobs:
            npm run api:install
       # TODO: Lint the frontend
       # npm run frontend:lint
-      - run:
-          name: Front-End Lint
-          command: |
+      # - run:
+      #     name: Front-End Lint
+      #     command: |
            
       # TODO: Build the frontend app
       - run:
