@@ -28,3 +28,10 @@ Here we are creating a pipeline that will contribute into the creation of an aut
 
 ![Screen Shot 2023-02-13 at 5 14 11 PM](https://user-images.githubusercontent.com/91342432/218481518-0a13ac49-6bec-4a63-a745-629b289e688e.png)
 
+
+![Screen Shot 2023-02-13 at 5 16 06 PM](https://user-images.githubusercontent.com/91342432/218482290-3bea0ae4-a355-49be-90a6-2e84b0ba4c4b.png)
+
+
+![Screen Shot 2023-02-13 at 5 16 22 PM](https://user-images.githubusercontent.com/91342432/218482295-f87f81c0-f631-403a-a7c8-b2e879b29082.png)
+
+
