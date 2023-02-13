@@ -14,10 +14,9 @@ import { AuthRegisterComponent } from '../auth-register/auth-register.component'
   styleUrls: ['./auth-menu-button.component.scss'],
 })
 export class AuthMenuButtonComponent implements OnInit {
-  auth: any;
 
   constructor(
-     auth: AuthService,
+    private auth: AuthService,
     public modalController: ModalController
     ) {}
   // eslint-disable-next-line @typescript-eslint/no-empty-function
