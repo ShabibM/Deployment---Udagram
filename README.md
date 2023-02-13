@@ -1,4 +1,8 @@
-# Hosting a Full-Stack Application (Udagram)
+## Hosting a Full-Stack Application (Udagram)
+
+Front-end URL [S3]: http://mynewbuckethere.s3-website-us-east-1.amazonaws.com/home 
+
+Back-end URL [EB]: http://udagram-api-dev22222222.us-east-1.elasticbeanstalk.com/api/v0/feed 
 
 This project shows the procedure of deploying a fully functional website using Amazon Web Services.
 
