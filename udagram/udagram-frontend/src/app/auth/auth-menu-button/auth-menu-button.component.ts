@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { Component, OnInit } from '@angular/core';
 import { ModalController } from '@ionic/angular';
 import { AuthMenuUserComponent } from './auth-menu-user/auth-menu-user.component';
@@ -12,11 +14,14 @@ import { AuthRegisterComponent } from '../auth-register/auth-register.component'
   styleUrls: ['./auth-menu-button.component.scss'],
 })
 export class AuthMenuButtonComponent implements OnInit {
+  auth: any;
 
   constructor(
-    private auth: AuthService,
+     auth: AuthService,
     public modalController: ModalController
     ) {}
+  // eslint-disable-next-line @typescript-eslint/no-empty-function
+  ngOnInit(): void {  }
 
   async presentmodal(ev: any) {
     const modal = await this.modalController.create({
@@ -43,6 +48,5 @@ export class AuthMenuButtonComponent implements OnInit {
     this.auth.logout();
   }
 
-  ngOnInit() {}
 
 }

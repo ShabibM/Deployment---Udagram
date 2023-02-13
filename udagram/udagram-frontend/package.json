@@ -5,7 +5,7 @@
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --port 8100",
     "build": "ng build",
     "deploy": "npm install -f && npm run build && chmod +x bin/deploy.sh && bin/deploy.sh",
     "test": "ng test --watch=false",
@@ -45,7 +45,7 @@
     "@types/node": "~18.13.0",
     "@typescript-eslint/eslint-plugin": "^5.51.0",
     "@typescript-eslint/parser": "^5.51.0",
-    "codelyzer": "~6.0.2",
+    "codelyzer": "^0.0.28",
     "jasmine-core": "~4.5.0",
     "jasmine-spec-reporter": "~7.0.0",
     "karma": "~6.4.1",
